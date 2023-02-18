@@ -11,11 +11,11 @@ cc chat_client -o client
 
 In any UNIX environment, run a server by specifying a port for the server to run on. To run a client, specify the IP address of the server as well as the port.
 
-<pre>
-****Running the Server:****     ./server \<PORT\>
 
-****Running a Client:****     ./client \<SERVER-IP\> \<PORT\>
-</pre>
+****Running the Server:****<pre>    </pre>./server \<PORT\>
+
+****Running a Client:****<pre>    </pre>./client \<SERVER-IP\> \<PORT\>
+
 
 
 

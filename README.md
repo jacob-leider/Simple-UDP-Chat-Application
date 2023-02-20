@@ -1,6 +1,6 @@
 # Simple-UDP-Chat-Application
 
-A simple UDP client-server chat application written in c. This program is built to run on UNIX-like operating systems.
+A simple UDP client-server chat application written in c. This program is built to run on UNIX-like operating systems (linux, macOS, ...).
 
 ## Compilation
 

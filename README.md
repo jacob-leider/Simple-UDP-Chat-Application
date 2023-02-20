@@ -2,9 +2,6 @@
 
 A simple UDP client-server chat application written in c. This program is built to run on UNIX-like operating systems (linux, macOS, ...).
 
-
-## Downloading
-
 ****Clone From github:**** &nbsp;&nbsp; $ git clone https://github.com/jacob-leider/Simple-UDP-Chat-Application.git
 
 
@@ -27,7 +24,7 @@ In any UNIX environment, run a server by specifying a port for the server to run
 ****Running a Client:**** &nbsp;&nbsp; $ ./client \<SERVER-IP\> \<PORT\>
 
 
-## Usage
+## Use
 
 Once a client is running, simply type a message followed by [RETURN]. The message will be displayed to all active clients preceded by the sender's IP address and port number. Kill the process running the client to exit the program.
 

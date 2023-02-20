@@ -12,7 +12,7 @@ A simple UDP client-server chat application written in c. This program is built 
 
 To compile the server and the client code, submit the following two commands into a UNIX shell:
 
-<p style="text-align: center;">$ cc chat_server -o server</p>
+<centered>$ cc chat_server -o server</centered>
 
 <p style="text-align: center;">$ cc chat_client -o client</p>
 

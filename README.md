@@ -19,12 +19,17 @@ To compile the server and the client code, submit the following two commands int
 
 ## Running
 
-In any UNIX environment, run a server by specifying a port for the server to run on. To run a client, specify the IP address of the server as well as the port.
+In any UNIX environment, run a server by specifying a port for the server to run on. To run a client, specify the IP address of the server as well as the port. For more detail on the formatting of command line arguments, see the "Command Line Arguments" section.
 
 
 ****Running the Server:**** &nbsp;&nbsp; $ ./server \<PORT\>
 
 ****Running a Client:**** &nbsp;&nbsp; $ ./client \<SERVER-IP\> \<PORT\>
+
+
+## Usage
+
+Once a client is running, simply type a message followed by [RETURN]. The message will be displayed to all active clients preceded by the sender's IP address and port number. Kill the process running the client to exit the program.
 
 
 ## Command Line Arguments
